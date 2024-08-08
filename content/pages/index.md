@@ -47,7 +47,7 @@ sections:
           - pt-16
           - pl-16
         type: FeaturedItem
-         - title: 200%
+     - title: 200%
            subtitle: Faster
            text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
