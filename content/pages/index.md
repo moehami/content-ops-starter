@@ -13,9 +13,9 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: الهلال السوداني
         altText: ''
-        url: /
+        url: https://sudafoot.com/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a-2024-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%81%d9%84%d9%88%d8%b1%d8%a7%d9%86-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7/
         showIcon: false
         icon: arrowRight
         iconPosition: right
