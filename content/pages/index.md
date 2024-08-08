@@ -46,25 +46,7 @@ sections:
           - pt-16
           - pl-16
         justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Grow your business 1000x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
+        type: TitleBlock
     subtitle: subtitle is Here
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
