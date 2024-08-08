@@ -2,8 +2,8 @@
 title: Home of MOe
 slug: /
 sections:
-   - type: GenericSection
-    title:
+    - type: GenericSection 
+     title:
       text: خيار من خيار
       type: TitleBlock
     subtitle: الهلال السوداني
