@@ -2,7 +2,7 @@
 title: Home of MOe1
 slug: /
 sections:
-    - type: GenericSection 
+      type: GenericSection 
      title:
       text: خيار من خيار
       type: TitleBlock
