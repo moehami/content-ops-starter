@@ -4,17 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production MOe
-      color: text-dark
+      text: خيار من خيار
       type: TitleBlock
     subtitle: الهلال السوداني
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+يتطلع فريق الهلال السوداني لوضع بصمة جديدة في مشروعه الكروي الذي بدأ منتصف العام 2022 وذلك عندما يشارك الفريق في بطولة دوري أبطال أفريقيا نسخة “2024-2025” والتي تنطلق منتصف أغسطس 2024، بمواجهة فريق أهلي بنغازي الليبي في الدور التمهيدي الأول للمسابقة القارية.
     actions:
       - label: الهلال السوداني
-        altText: ''
+        altText: 'رابط المقال من سودافووت'
         url: https://sudafoot.com/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a-2024-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d9%81%d9%84%d9%88%d8%b1%d8%a7%d9%86-%d8%a3%d9%85%d8%a7%d9%85-%d8%a7/
         showIcon: false
         icon: arrowRight
