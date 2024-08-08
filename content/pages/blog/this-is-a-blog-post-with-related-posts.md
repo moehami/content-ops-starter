@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: This is a blog post with related MOe
-date: '2024-08-10'
+date: '2024-08-08'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
