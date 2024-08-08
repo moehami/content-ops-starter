@@ -45,7 +45,7 @@ sections:
         padding:
           - pt-16
           - pl-16
-        justifyContent: center
+
         type: TitleBlock
     subtitle: subtitle is Here ya man
     text: |-
