@@ -7,8 +7,7 @@ sections:
       text: خيار من خيار
       type: TitleBlock
     subtitle: الهلال السوداني
-    text: >
-texxxxt
+    text: texxxxt
     actions:
       - label: الهلال السوداني
         altText: 'رابط المقال من سودافووت'
