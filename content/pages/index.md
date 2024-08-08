@@ -48,8 +48,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-
-        type: FeaturedItem
+type: FeaturedItem
       - title: Feature Item TwoM
         tagline: This is the tagline
         subtitle: This is the item subtitle
