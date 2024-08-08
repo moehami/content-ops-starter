@@ -1,4 +1,4 @@
-title: Home of MOe1
+title: Home of MOe12
 slug: /
 sections:
       type: GenericSection 
