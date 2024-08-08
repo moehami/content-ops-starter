@@ -1,9 +1,9 @@
 ---
-title: Pricing
-slug: pricing
+title: Sfood1
+slug: sfood1
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Sfood1
       color: text-dark
       styles:
         self:
@@ -116,7 +116,7 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
+  metaTitle: Sfood - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
