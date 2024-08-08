@@ -1,8 +1,7 @@
 ---
 type: PostLayout
 title: This is a blog post with related MOe
-date: '2022-10-10'
-author: content/data/person1.json
+date: '2024-08-08'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
@@ -63,6 +62,7 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
+author: content/data/newspaper.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
 
