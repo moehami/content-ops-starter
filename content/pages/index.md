@@ -1,4 +1,3 @@
----
 title: Home of MOe1
 slug: /
 sections:
