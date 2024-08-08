@@ -48,14 +48,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
