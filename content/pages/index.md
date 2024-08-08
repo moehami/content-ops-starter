@@ -49,7 +49,7 @@ sections:
           - pb-16
           - pr-16
 type: FeaturedItem
-      - title: Feature Item TwoM
+      - title: Feature Item TwoMx
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
