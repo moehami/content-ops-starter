@@ -45,7 +45,6 @@ sections:
         padding:
           - pt-16
           - pl-16
-
 type: FeaturedItem
       - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
