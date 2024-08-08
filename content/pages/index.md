@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: مرحبا بكم
       color: text-primary
       type: Badge
     elementId: ''
