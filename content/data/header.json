@@ -10,6 +10,14 @@
         "type": "ImageBlock"
     },
     "primaryLinks": [
+          {
+            "label": "Testa",
+            "url": "/testbc",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
         {
             "label": "Pricing",
             "url": "/pricing",
